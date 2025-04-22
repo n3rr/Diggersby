@@ -3,5 +3,5 @@ is a tool to hunt down malicous Discord Bot.
 
 Available in:
 - CLI
-- GUI
+- GUI (soon)
 - Web (soon)
