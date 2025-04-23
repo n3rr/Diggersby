@@ -8,3 +8,7 @@ Diggersby is a tool to hunt down malicous Discord Bot.
 - CLI
 - GUI (Supports Windows and MacOS)
 - Web (soon)
+
+# How to use
+- Insert bot's token
+- Press 'Start' button
