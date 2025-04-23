@@ -1,11 +1,10 @@
+![diggersby_gambar](https://github.com/user-attachments/assets/030a9469-c907-4508-a189-e0f9018156ac)
+
 # Diggersby 
-is a tool to hunt down malicous Discord Bot.
+Diggersby is a tool to hunt down malicous Discord Bot.
 
-# How to use
-1. Clone this repo (https://github.com/n3rr/Diggersby.git)
-2. python3 diggersby_cli.py
 
-Available in:
+# Available in
 - CLI
-- GUI (soon)
+- GUI (Supports Windows and MacOS)
 - Web (soon)
