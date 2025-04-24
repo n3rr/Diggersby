@@ -1,7 +1,7 @@
 ![diggersby_gambar](https://github.com/user-attachments/assets/030a9469-c907-4508-a189-e0f9018156ac)
 
 # Diggersby 
-Diggersby is a tool designed to infiltrate and monitor Discord bots by utilizing the Discord Bot API. It automates the process of capturing messages from malicious bots.
+Diggersby is a tool designed to infiltrate and monitor Discord bots by utilizing the Discord Bot API. It streamlines the process of capturing messages from potentially malicious bots, enabling efficient tracking and analysis.
 
 
 ## Available in
@@ -31,3 +31,13 @@ Diggersby is a tool designed to infiltrate and monitor Discord bots by utilizing
 
 2. **Export Output**
   - Press **Export Bot Info**/**Export Message** button to download the results
+
+## Where to find token?
+1. **Hunting**
+  - [Fofa](https://en.fofa.info/)
+
+2. **Malware Sample**
+  - [Malware Bazaar](https://bazaar.abuse.ch/)
+
+3. **IOC**
+  - From any analysis report related to Discord C2
